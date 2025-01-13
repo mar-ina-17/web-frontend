@@ -98,6 +98,9 @@ const languages = {
     "confirm-password": "Confirm Password",
     "save-changes": "Save Changes",
     "password-not-match": "Passwords do not match",
+    "add-topic": "Add Topic",
+    "add-topic-name": "Name of topic",
+    "sample-resources-textarea": "Here you can add sample resources",
   },
   bg: {
     "auth-title": "Автентикация",
@@ -197,6 +200,9 @@ const languages = {
     "save-changes": "Запази промените",
     "password-not-match": "Паролите не съвпадат",
     faq: "ЧЗВ (Често задавани въпроси)",
+    "add-topic": "Добави тема",
+    "add-topic-name": "Името на темата",
+    "sample-resources-textarea": "Тук могат да се добавят примерни ресурси",
   },
 };
 

@@ -90,6 +90,8 @@ const languages = {
       "To see the schedule details of a day, select one from the list on the left.",
     "info-no-data-available-for-day":
       "Be the first to add yourself to the schedule!",
+    "info-no-data-available-for-day-admin":
+      "Nobody has added a timeslot on this day.",
     "change-password": "Change password",
     "user-details": "User Details",
     faq: "FAQ (Frequently asked questions)",
@@ -104,6 +106,12 @@ const languages = {
     "search-project": "Search Project",
     search: "Search",
     "delete-selected": "Delete Selected",
+    "delete-timetable": "Delete timetable",
+    date: "Date",
+    "start-time": "Start time",
+    "end-time": "End time",
+    delay: "Delay",
+    "add-time-slot": "Add day slot",
   },
   bg: {
     "auth-title": "Автентикация",
@@ -195,6 +203,8 @@ const languages = {
       "За да видиш графика на някой ден, избери един от списъка в ляво.",
     "info-no-data-available-for-day":
       "Все още никой не се записал за този ден, бъди първият!",
+    "info-no-data-available-for-day-admin":
+      "Все още никой не се записал за този ден.",
     "change-password": "Смени парола",
     "user-details": "Моите данни",
     "old-password": "Стара парола",
@@ -209,6 +219,12 @@ const languages = {
     "search-project": "Потърси проект",
     search: "Потърси",
     "delete-selected": "Премахни избрани",
+    "delete-timetable": "Изтрий този ден",
+    date: "Дата",
+    "start-time": "Начален час",
+    "end-time": "Краен час",
+    delay: "Диапазон",
+    "add-time-slot": "Добави ден за представяне",
   },
 };
 

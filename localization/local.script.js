@@ -112,6 +112,9 @@ const languages = {
     "end-time": "End time",
     delay: "Delay",
     "add-time-slot": "Add day slot",
+    question: "Question",
+    answer: "Answer",
+    "add-faq": "Add FAQ",
   },
   bg: {
     "auth-title": "Автентикация",
@@ -225,6 +228,9 @@ const languages = {
     "end-time": "Краен час",
     delay: "Диапазон",
     "add-time-slot": "Добави ден за представяне",
+    question: "Въпрос",
+    answer: "Отговор",
+    "add-faq": "Добави ЧЗВ",
   },
 };
 

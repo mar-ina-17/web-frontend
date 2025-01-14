@@ -101,6 +101,9 @@ const languages = {
     "add-topic": "Add Topic",
     "add-topic-name": "Name of topic",
     "sample-resources-textarea": "Here you can add sample resources",
+    "search-project": "Search Project",
+    search: "Search",
+    "delete-selected": "Delete Selected",
   },
   bg: {
     "auth-title": "Автентикация",
@@ -203,6 +206,9 @@ const languages = {
     "add-topic": "Добави тема",
     "add-topic-name": "Името на темата",
     "sample-resources-textarea": "Тук могат да се добавят примерни ресурси",
+    "search-project": "Потърси проект",
+    search: "Потърси",
+    "delete-selected": "Премахни избрани",
   },
 };
 

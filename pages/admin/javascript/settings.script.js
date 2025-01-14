@@ -76,10 +76,11 @@ function addFAQ() {
 document.addEventListener("DOMContentLoaded", () => {
   renderFAQs();
 
-  // Add FAQ button event listener
   const addFAQButton = document.createElement("button");
   addFAQButton.setAttribute("data-i18n", "add-faq");
   addFAQButton.classList.add("add-faq-button");
+  addFAQButton.classList.add("secondary");
+  addFAQButton.classList.add("small");
   addFAQButton.addEventListener("click", openAddFAQModal);
   document.querySelector(".faq-header").appendChild(addFAQButton);
   applyTranslations();

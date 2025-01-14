@@ -133,3 +133,12 @@ table td {
     overflow-x: scroll;
   }
 }
+
+.modal.timeslot {
+  width: 400px;
+}
+
+.input-container input {
+  padding-right: 10px;
+  cursor: pointer;
+}
